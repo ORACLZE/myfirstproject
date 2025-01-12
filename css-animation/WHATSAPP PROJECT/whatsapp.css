@@ -1,0 +1,283 @@
+header {
+    background-color: white;
+    border-radius: 9px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    margin: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    padding-left: 30px;
+    font-size: large;
+    font-weight: bold;
+    text-align: initial;
+    width: 100%;
+    height: 100%;
+    /* position: static; */
+    /* background-color: green; */
+}
+
+body {
+    background-color: rgb(0, 100, 52);
+}
+
+.meta {
+    color: black;
+}
+
+/* nav {
+    font-size: large;
+    font-weight: bold;
+    color: white;
+} */
+
+.icon {
+    position: relative;
+    top: 10px;
+    /* color: white; */
+}
+
+.img {
+    position: relative;
+    top: 3px;
+}
+
+.sapa {
+    font-size: large;
+    font-weight: bold;
+    top: 20px;
+    /* margin: 1px; */
+    bottom: 45px;
+    padding-top: 10px;
+    /* vertical-align: top; */
+    position: relative;
+    /* top: 100px; */
+    bottom: 150px;
+}
+
+ul {
+    color: white;
+    list-style-type: none;
+    display:flex;
+    /* letter-spacing: 4px; */
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+    /* text-align: center; */
+    font-size: large;
+    gap: 10px;
+    top: 40px;
+    /* bottom: 10px; */
+}
+
+ul:hover {
+    cursor: pointer;
+}
+
+/* wahala {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    gap: 100px;
+    bottom: 50px; 
+} */
+
+.button {
+    background-color: lightgreen;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    /* top: 500px; */
+    /* bottom: 300px; */
+}
+
+.buttons {
+    background-color: lightgreen;
+    width: 150px;
+    height: 50px;
+    border-radius: 100px;
+    font-size: medium;
+    /* top: 10px; */
+    /* bottom: 20px; */
+}
+
+.buttonz {
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    border-radius: 100px;
+    font-size: medium;
+}
+
+.head {
+    /* left: 130px; */
+    nav-right: 120px;
+    color: green;
+    width: 3000px;
+    height: fit-content;
+    font-size: xx-large;
+    position: relative;
+    left: 100px;
+}
+
+.para {
+    color: white;
+    font-stretch: wider;
+    font-size: larger;
+    position: relative;
+    left: 100px;
+}
+
+.products {
+    background-color: lightgreen;
+    width: 250px;
+    height: 67px;
+    border-radius: 100px;
+    font-size: medium;
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+
+.space {
+    top: 150px;
+    position: relative;
+}
+
+.robbery {
+    /* width: 1px; */
+    /* height: 1px; */
+    position: relative;
+    left: 550px;
+}
+ 
+.operation {
+    width: 470px;
+    height: 500px;
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+    mix-blend-mode:lighten;
+}
+
+.button:hover {
+    background-color:  darkgrey;
+    /* transform: scale(1.0); */
+    transition: background-color 5.5s ease-in-out transform 5.5s ease-in-out ;
+}
+
+.buttons:hover {
+    background-color: darkgrey;
+    transition: background-color 2.5s ease-in-out transform 2.5s;
+    cursor: pointer;
+}
+.buttonz {
+    background-color: darkgrey;
+    
+    cursor: pointer;
+}
+.thirdfloor {
+    background-color: white;
+    
+}
+.company {
+    text-align: center;
+    font-size: larger;
+    top: 200px;
+}
+.kompany {
+    text-align: center;
+    font-size: 40px;  
+    font-weight: lighter;
+}
+
+.cards {
+    /* background-color: lightgrey;
+    border: 1px solid lightgrey;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 70px;
+    width: 100px; */
+
+}
+.box {
+    background-color: lightgrey;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 90px;
+    border-radius: 20px;
+
+}
+.baggy {
+    width: 75px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+
+}
+.haha {
+    position: relative;
+    top: 30px;
+    left: 40px;
+    font-size:xx-large;
+    font-weight: lighter;
+}
+.shit {
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.start {
+    position: relative;
+    top:20px;
+    left: 50px;
+}
+.right {
+    position: relative;
+    top: 30px;
+    width: 30px;
+    left: 40px;
+}
+.boxer {
+    background-color: lightgrey;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 90px;
+    border-radius: 20px;
+
+}
+.haba {
+    position: relative;
+    top: 30px;
+    left: 40px;
+    font-size:xx-large;
+    font-weight: lighter;
+}
+.shyt {
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.app {
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.rite {
+    position: relative;
+    top: 30px;
+    width: 30px;
+    left: 40px;  
+}
+
+
+
+/* #product {
+    position: relative;
+    top: 10px;
+} */
+

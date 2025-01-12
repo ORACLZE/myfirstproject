@@ -1,0 +1,64 @@
+body{
+    background-color: blue;
+    background-image: url("../IMG_20240824_213901.jpg");
+    background-repeat: no-repeat;
+    background-size: cover0  ;
+}
+    /* header nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row; */
+    header nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+} 
+header ul{
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+}
+header li{
+    list-style: circle;
+    border: rebeccapurple;
+    
+}
+a:hover{
+    color: red;
+}
+
+.container{
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    gap: 10px;
+}
+.container div{
+    border: 10px dotted green ;
+    gap: 10px;
+}
+.phem{
+    padding: 1opx 5px;
+    margin: 10px;
+    background-color: red;
+
+}
+.official{
+    background-color: aquamarine;
+    border-radius: 50px;
+    width: 50px;
+    padding: 40px 35px;
+
+}
+/* .header-menu{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+} */
+.something{
+    /* display:block; */
+    /* display:flex; */
+    visibility: visible;
+    
+
+}
